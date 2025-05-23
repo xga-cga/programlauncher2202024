@@ -8,6 +8,6 @@ Design a program launcher for windows C99 using the GTK GUI. Have a form with 4 
 Io
 
 gladeui
-
+ Here is a link to a GTK for Windows Runtime Environment Installer
 https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer/releases
 
